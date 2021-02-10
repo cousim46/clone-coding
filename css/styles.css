@@ -1,0 +1,8 @@
+@import "login.css";
+@import "reset.css";
+@import "variable.css";
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap");
+
+body {
+  margin: 0px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
